@@ -1,4 +1,8 @@
 # mjDrmUGvs9wf2Jff
+
+In order to view the notebook, go to https://colab.research.google.com/gist/MaadElGali/31cbc319e2419e3c43ba17bb8447ec3c/talentsourcingjobs.ipynb
+
+
 Ranking job applicants based on a fitness score
 Goal(s):
 
